@@ -6,7 +6,7 @@ namespace Tic_Tac_Toe
     {
        public static void Main(string[] args)
         {
-            char[] arr = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'};
+            char[] arr = {'1', '2', '3', '4', '5', '6', '7', '8', '9'};
         }
         public static void Player()
         {
