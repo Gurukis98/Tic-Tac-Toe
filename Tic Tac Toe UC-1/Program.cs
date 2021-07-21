@@ -17,7 +17,7 @@ namespace Tic_Tac_Toe
             }
             else
             {
-                Console.WriteLine("Computer Chance");
+                Console.WriteLine("Computer Chance.");
             }
         }
     }
