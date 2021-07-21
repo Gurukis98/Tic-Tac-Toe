@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Tic_Tac_Toe_UC_1
+namespace Tic_Tac_Toe
 {
    public class Program
     {
@@ -8,7 +8,7 @@ namespace Tic_Tac_Toe_UC_1
         {
             char[] arr = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'};
         }
-        public static void UC2()
+        public static void Player()
         {
             int player = int.Parse(Console.ReadLine());
             if (player%2==0)
