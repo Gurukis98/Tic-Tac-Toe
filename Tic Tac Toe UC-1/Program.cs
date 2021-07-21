@@ -19,6 +19,12 @@ namespace Tic_Tac_Toe
             {
                 Console.WriteLine("Computer Chance.");
             }
+            static void Board()
+            {
+                Console.WriteLine("  |  |  ");
+                Console.WriteLine("  |  |  ");
+                Console.WriteLine("  |  |  ");
+            }
         }
     }
 }
