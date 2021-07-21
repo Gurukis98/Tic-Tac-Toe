@@ -22,7 +22,11 @@ namespace Tic_Tac_Toe
             static void Board()
             {
                 Console.WriteLine("  |  |  ");
-                Console.WriteLine("  |  |  ");
+                Console.WriteLine(" {0} | {1} | {2}");
+                Console.WriteLine("__|__|__");
+                Console.WriteLine(" {0} | {1} | {2}");
+                Console.WriteLine("__|__|__");
+                Console.WriteLine(" {0} | {1} | {2}");
                 Console.WriteLine("  |  |  ");
             }
         }
